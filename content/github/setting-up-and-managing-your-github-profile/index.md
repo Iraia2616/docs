@@ -1,4 +1,4 @@
----
+Hi all new here trying to learn 
 title: Setting up and managing your GitHub profile
 shortTitle: Profiles
 redirect_from:
